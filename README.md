@@ -1,2 +1,3 @@
 # Launchx-exercise-katas
-Mi repositorio para ejercicios del Onboarding
+Mis Katas de la misión 
+Autor: Cristhofer Antonio Pérez
